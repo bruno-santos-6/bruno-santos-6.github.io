@@ -16,7 +16,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal, que destaca
 Este portfólio apresenta os serviços que ofereço, como desenvolvimento de aplicações, criação de APIs, pipelines de dados, e implantação de soluções em nuvem. Ele também inclui seções com minha experiência, habilidades técnicas e formas de contato.
 
 ## Demonstração
-Você pode acessar a versão ao vivo do meu portfólio [aqui](https://seulinkdoprotfolio.com).
+Você pode acessar a versão ao vivo do meu portfólio [aqui](https://bruno-santos-6.github.io/).
 
 ## Funcionalidades
 - Página inicial com apresentação pessoal
